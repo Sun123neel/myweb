@@ -1,0 +1,14 @@
+what is performance testing?
+performance testing is non functional testing is the process to evaluate or calculate performance of the applicatons. 
+As performance tester is calculating the speed,stability and scalability of the applicatons.
+ speed :check whether applicatons is responding quiclkly or not.
+ stability:it determines the whether applications is accepting derived load or not
+             or it is accpting the giving load or not 
+ scalability: what is the maximum load app is accepting.
+
+why performance testing is required?
+A:To avoid the business loss we need to be pt.
+
+Think time: time delay between action to action is called think time
+Pacing time:time delay between iteration to iteration ia called pacing time. 
+
